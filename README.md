@@ -1,5 +1,4 @@
 # IBM-HR-Data-Analysis-using-Python-and-SQL
-# IBM HR Data Analysis and Prediction
 
 ## Overview
 
