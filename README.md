@@ -6,7 +6,7 @@ This project focuses on analyzing and predicting employee attrition within a com
 Through visualizations and descriptive statistics, the project aims to provide insights into factors influencing attrition, such as job role, age, and monthly income. This understanding can aid organizations in making informed decisions to enhance employee retention.
 
 Dataset
-The dataset is attached in a CSV file- . It includes various attributes related to employee demographics, job roles, compensation, and attrition status.
+The dataset is attached in a CSV file- 'https://github.com/aishwarya0404/IBM-HR-Data-Analysis-using-Python-and-SQL/blob/main/HR%20Data.csv'. It includes various attributes related to employee demographics, job roles, compensation, and attrition status.
 
 Installation
 Ensure you have Python installed (preferably 3.7 or later).
