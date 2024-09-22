@@ -9,6 +9,7 @@ Dataset
 The dataset is attached in a CSV file- 'https://github.com/aishwarya0404/IBM-HR-Data-Analysis-using-Python-and-SQL/blob/main/HR%20Data.csv'. It includes various attributes related to employee demographics, job roles, compensation, and attrition status.
 
 Installation
+
 Ensure you have Python installed (preferably 3.7 or later).
 
 Install the required packages using pip:
@@ -17,9 +18,11 @@ pip install pandas mysql-connector-python seaborn matplotlib scikit-learn
 Set up a MySQL server and create a database named ibm.
 
 Usage
+
 Place your CSV files in the specified folder.
 Update the CSV file names and corresponding table names in the script.
 Run the Python script to import the data, analyze it, visualize it, and train the logistic regression model.
+
 Data Import
 The script reads specified CSV files and imports them into the MySQL database:
 
@@ -27,6 +30,7 @@ CSV files are read into Pandas DataFrames.
 NaN values are replaced with None for SQL compatibility.
 Column names are sanitized to fit SQL naming conventions.
 A corresponding table is created in the database if it does not already exist.
+
 Data Analysis
 The data is analyzed to identify trends, such as the average monthly income by job role. Key numeric and categorical columns are separated for further analysis.
 
